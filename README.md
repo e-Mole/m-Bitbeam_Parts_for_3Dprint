@@ -15,3 +15,5 @@ The name for the project is derived from the full size modular building system [
 ## Why m-Bitbeam?
 
 m-Bitbeam is an extended Bitbeam 3D printable set that we use when teaching children (STEM education). For more information, see the section of 3D models of the magazine [e-Mole](http://www.e-mole.cz/3d-model/seznam) (yet Czech only). All models are free to download :-)
+
+Visit [m-Bitbeam construction set – parts in DAT format for LDraw](https://github.com/e-Mole/m-Bitbeam_Parts_for_LDraw) and [m-Bitbeam info page](http://www.tfsoft.cz/m-bitbeam/index.html) with a small demonstration in [PDF format](http://www.tfsoft.cz/m-bitbeam/resources/l07-ferda-v01r01-web.pdf).
