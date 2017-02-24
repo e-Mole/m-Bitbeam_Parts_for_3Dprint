@@ -1,10 +1,10 @@
 # Robotics Parts for 3D print
-Robic construction set – parts in STL format for 3D print
+Robic construction set – parts in STL format for 3D print.
 This set is derived from [Bitbeam Repository] (https://github.com/bitbeam/bitbeam/wiki/The-Bitbeam-project), but now it is almost completely reworked. 
 
 ## What is Robic construction set?
 
-It is an open source construction set for building robots and mechanical toys. The collection of printed parts may be used as a chassis for a mobile robot, to make manipulators and so on and so on. This project is aimed to design a set of parts to be used as a teaching instrument for schoolchildren and students to stude STEM.
+It is an open source construction set for building robots and mechanical toys. The collection of the printed parts may be used as a chassis for a mobile robot, to make manipulators and so on and so on. This project is aimed to design a set of parts to be used as a teaching instrument for schoolchildren and students to study STEM.
 
 The elements of the set can be tied together using M4 bolts and nuts, or using LEGO pins. The heart of the project is Arduino which is used as the main control unit of the set.
 
