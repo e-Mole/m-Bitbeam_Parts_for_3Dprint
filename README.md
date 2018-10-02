@@ -20,3 +20,5 @@ Visit [m-Bitbeam construction set – parts in DAT format for LDraw](https://git
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+Are you using <a href="http://www.openscad.org/" target="_blank">OpenSCAD</a>? If not, maybe you should start ... Ondřej Tůma has prepared a great <a href="https://github.com/ondratu/bitbeam-lib" target="_blank">OpenSCAD library</a>, which allows you to quickly generate various Bitbeam parts exactly to suit your needs.
